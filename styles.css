@@ -1,0 +1,28 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    background-color: lightseagreen;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.dish-li {
+    list-style-type: none;
+    background-color: burlywood;
+}
+
+.return-link {
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    background-color: black;
+}
