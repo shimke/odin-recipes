@@ -3,21 +3,29 @@ body {
 }
 
 h1 {
-    background-color: lightseagreen;
+    background-color: rgb(56, 168, 163);
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    margin: 10px 200px;
+    padding: 10px;
+}
+
+ul {
+    background-color: burlywood;
+    padding: 10px;
 }
 
 a {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: white;
+    color: darkslategray;
+    font-weight: 800;
 }
 
 .dish-li {
     list-style-type: none;
-    background-color: burlywood;
+    display: inline-block;
 }
 
 .return-link {

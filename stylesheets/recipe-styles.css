@@ -1,0 +1,60 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    color: rgb(196, 218, 211);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px;
+    width: 300px;
+    background-color: rgb(153, 108, 49);
+}
+
+h3 {
+    margin: 10px;
+    padding: 5px 20px;
+    text-decoration: underline;
+    background-color: burlywood;
+    color: rgb(70, 70, 70);
+}
+
+p, ul {
+    margin: 10px;
+    padding: 5px 30px;
+}
+
+ol {
+    margin: 10px;
+    padding: 5px 45px;
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+    width: 300px;
+}
+
+li {
+    padding: 2px;
+}
+ul li {
+    list-style-type: none;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(121, 219, 219);
+    font-weight: 800;
+}
+
+.return-link {
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(94, 93, 93);
+    align: center;
+}
